@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style="background-color: pink, height: 10px, width: 10px"></div>
+<div style="border: 2px solid black; padding: 10px; background-color: lightgray;">
+  <h3>Styled Div</h3>
+  <p>This is a div with custom inline CSS.</p>
+</div>
