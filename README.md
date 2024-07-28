@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a Multimedia and Mass communications student, but a passionate front end web developer, I am transitioning my career into Web Development, I have a some experience in Graphic Design as I have completed a few internships in the field, I have done an internship in Front End Web Development as well.
+I am a Multimedia and Mass communications student, but a passionate front end web developer, I am transitioning my career into Web Development, I have a some experience in Graphic Design as I have completed a few internships in the field, and have done an internship in Front End Web Development as well.
 
