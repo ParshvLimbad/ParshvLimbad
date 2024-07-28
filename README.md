@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<input type="text" id="name" name="name"/>
+<form>
+  <label for="name">Name:</label><br>
+  <input type="text" id="name" name="name" placeholder="Enter your name" disabled><br><br>
+  <input type="submit" value="Submit" disabled>
+</form>
