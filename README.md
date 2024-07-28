@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I am Parshv Limbad 👋
 
 <!--
 **ParshvLimbad/ParshvLimbad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>Hello, I am Parshv Limbad</h1>
+
 
